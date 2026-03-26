@@ -37,7 +37,7 @@ A fully functional blockchain-based decentralized application for managing vehic
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, Tailwind CSS 4, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js.
 - **Blockchain:** Ethereum, Solidity ^0.8.19
 - **Development Tools:** Truffle Suite, Ganache
 - **Web3 Integration:** Web3.js v4
@@ -350,6 +350,4 @@ Built as a comprehensive blockchain development project showcasing:
 - Full-stack blockchain development
 - Modern UI/UX with Tailwind CSS
 
----
 
-**⭐ If you find this project helpful, please consider giving it a star!**
